@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-04-20'
 papers:
   JMLG_IcAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -9,12 +9,16 @@ papers:
     citations: 21
     title: Dual Completion Learning for Incomplete Multi-View Clustering
     year: '2024'
+  JMLG_IcAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: Unfolding High-Order Correlations for Interpretable Multi-Contrast MRI Super-Resolution.
+    year: '2026'
   JMLG_IcAAAAJ:Tyk-4Ss8FVUC:
     citations: 1
     title: 'GSS: Gated Subspace Steering for Selective Memorization Mitigation in LLMs'
     year: '2026'
   JMLG_IcAAAAJ:WF5omc3nYNoC:
-    citations: 52
+    citations: 53
     title: Thermal Image Super-Resolution Challenge Results - PBVS 2025
     year: '2025'
   JMLG_IcAAAAJ:Y0pCki6q_DkC:
@@ -25,12 +29,8 @@ papers:
     citations: 0
     title: Efficient Text-Driven 3D Scene Editing Based on Gaussian Splatting
     year: '2025'
-  JMLG_IcAAAAJ:_FxGoFyzp5QC:
-    citations: 0
-    title: Unfolding High-order Correlations for Interpretable Multi-contrast MRI Super-resolution
-    year: Unknown Year
   JMLG_IcAAAAJ:d1gkVwhDpl0C:
-    citations: 27
+    citations: 28
     title: 'Llemamba: Low-light enhancement via relighting-guided mamba with deep unfolding network'
     year: '2024'
   JMLG_IcAAAAJ:u5HHmVD_uO8C:
