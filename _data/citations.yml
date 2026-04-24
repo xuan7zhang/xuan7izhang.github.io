@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-24'
 papers:
   JMLG_IcAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -9,10 +9,6 @@ papers:
     citations: 21
     title: Dual Completion Learning for Incomplete Multi-View Clustering
     year: '2024'
-  JMLG_IcAAAAJ:LkGwnXOMwfcC:
-    citations: 0
-    title: Unfolding High-Order Correlations for Interpretable Multi-Contrast MRI Super-Resolution.
-    year: '2026'
   JMLG_IcAAAAJ:Tyk-4Ss8FVUC:
     citations: 1
     title: 'GSS: Gated Subspace Steering for Selective Memorization Mitigation in LLMs'
@@ -33,6 +29,10 @@ papers:
     citations: 28
     title: 'Llemamba: Low-light enhancement via relighting-guided mamba with deep unfolding network'
     year: '2024'
+  JMLG_IcAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: Unfolding High-Order Correlations for Interpretable Multi-Contrast MRI Super-Resolution
+    year: '2026'
   JMLG_IcAAAAJ:u5HHmVD_uO8C:
     citations: 18
     title: 'Multi-view ensemble clustering via low-rank and sparse decomposition: from matrix to tensor'
