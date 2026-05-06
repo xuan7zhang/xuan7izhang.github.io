@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-06'
 papers:
   JMLG_IcAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -14,7 +14,7 @@ papers:
     title: 'GSS: Gated Subspace Steering for Selective Memorization Mitigation in LLMs'
     year: '2026'
   JMLG_IcAAAAJ:WF5omc3nYNoC:
-    citations: 53
+    citations: 54
     title: Thermal Image Super-Resolution Challenge Results - PBVS 2025
     year: '2025'
   JMLG_IcAAAAJ:Y0pCki6q_DkC:
