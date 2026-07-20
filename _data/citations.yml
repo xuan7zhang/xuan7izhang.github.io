@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-07-20'
 papers:
   JMLG_IcAAAAJ:2osOgNQ5qMEC:
     citations: 2
     title: Advancing 3d gaussian splatting editing with complementary and consensus information
     year: '2025'
   JMLG_IcAAAAJ:9yKSN-GCB0IC:
-    citations: 21
+    citations: 23
     title: Dual Completion Learning for Incomplete Multi-View Clustering
     year: '2024'
   JMLG_IcAAAAJ:Tyk-4Ss8FVUC:
@@ -14,7 +14,7 @@ papers:
     title: 'GSS: Gated Subspace Steering for Selective Memorization Mitigation in LLMs'
     year: '2026'
   JMLG_IcAAAAJ:WF5omc3nYNoC:
-    citations: 64
+    citations: 66
     title: Thermal Image Super-Resolution Challenge Results - PBVS 2025
     year: '2025'
   JMLG_IcAAAAJ:Y0pCki6q_DkC:
