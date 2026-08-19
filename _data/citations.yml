@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-19'
 papers:
   JMLG_IcAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -14,7 +14,7 @@ papers:
     title: 'GSS: Gated Subspace Steering for Selective Memorization Mitigation in LLMs'
     year: '2026'
   JMLG_IcAAAAJ:WF5omc3nYNoC:
-    citations: 71
+    citations: 72
     title: Thermal Image Super-Resolution Challenge Results - PBVS 2025
     year: '2025'
   JMLG_IcAAAAJ:Y0pCki6q_DkC:
@@ -26,7 +26,7 @@ papers:
     title: Efficient Text-Driven 3D Scene Editing Based on Gaussian Splatting
     year: '2025'
   JMLG_IcAAAAJ:d1gkVwhDpl0C:
-    citations: 28
+    citations: 29
     title: 'Llemamba: Low-light enhancement via relighting-guided mamba with deep unfolding network'
     year: '2024'
   JMLG_IcAAAAJ:roLk4NBRz8UC:
